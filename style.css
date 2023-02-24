@@ -55,3 +55,7 @@ h2 {
     background-color: #0000CD;
     color: #87CEFA;
 }
+.link-nav:hover {
+    background-color: #87CEFA;
+    color:  #0000CD;
+}
